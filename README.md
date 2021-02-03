@@ -2,9 +2,9 @@
 
 Merge release commit to master
 ==============================
--> Checkout to release commit hash
--> Create a new branch for the version tag(for example v2.5.5)
--> Push to created branch
+-> Checkout to release commit hash.
+-> Create a new branch for the version tag(for example v2.5.5).
+-> Push to created branch.
 -> Create pull request
 -> Merge with master
 -> Goto master branch
